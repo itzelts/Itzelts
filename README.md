@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 📌 I'm currently a junior at Harvard College studying computer science and cognitve science. Super interested in cognitve ai!
+- 🔭 I’m currently working on building a RAG bot for MLT!
+- 🌱 I’m currently learning about natural language processing
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzelts)](https://github.com/itzelts/github-readme-stats)
 <!--
 **itzelts/Itzelts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
