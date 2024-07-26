@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on building a RAG bot for MLT!
 - 🌱 I’m currently learning about natural language processing
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzelts)](https://github.com/itzelts/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzelts&show_icons=true&theme=cobalt)](https://github.com/itzelts/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzelts)](https://github.com/itzelts/github-readme-stats)
 <!--
 **itzelts/Itzelts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
